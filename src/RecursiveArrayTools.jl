@@ -1,5 +1,3 @@
-__precompile__()
-
 module RecursiveArrayTools
 
   using Requires, RecipesBase, StaticArrays, Statistics,
